@@ -1,0 +1,13 @@
+🖼️ Imagem 3 – Placa de trânsito:
+Texto Reconhecido:
+ATENÇÃO  
+DEVAGAR  
+TRÂNSITO DE PEDESTRES
+
+Possível Análise:
+
+Intenção: Informar e alertar condutores.
+
+Sentimento: Neutro.
+
+Emoção predominante: Atenção / precaução.
